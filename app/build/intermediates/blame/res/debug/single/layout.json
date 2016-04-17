@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyApplication\\CalendarWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_calendar.xml",
+        "source": "E:\\MyApplication\\CalendarWeight\\app\\src\\main\\res\\layout\\popupwindow_calendar.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\CalendarWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyApplication\\CalendarWeight\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

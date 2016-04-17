@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\MyApplication\CalendarWeight\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_98fe2915d7f889fbf7ea276fc69ff0a84f6bb24f\classes.dex" />
+    </item>
+    <item
+        jar="E:\MyApplication\CalendarWeight\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\MyApplication\CalendarWeight\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_4ab65a5b74711fd736ad053c5c08c5715ff28a64\classes.dex" />
+    </item>
+    <item
+        jar="E:\MyApplication\CalendarWeight\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\MyApplication\CalendarWeight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_0298e6cc28ce6c5db0973d2038043b55bc79f0d9\classes.dex" />
+    </item>
+    <item
+        jar="E:\MyApplication\CalendarWeight\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d020794f608698ec9118e1dfe53f1b408dc8e63c">
+        <dex dex="E:\MyApplication\CalendarWeight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4dd5616ac0bfe7fcebf9e5d95ced4d7e82abd52c\classes.dex" />
+    </item>
+    <item
+        jar="E:\MyApplication\CalendarWeight\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cda0f180b80ceba47946b5922dc7887e65dc3244">
+        <dex dex="E:\MyApplication\CalendarWeight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c4574eaae644628f5eb46a2b745e440da82e0c86\classes.dex" />
+    </item>
+
+</items>

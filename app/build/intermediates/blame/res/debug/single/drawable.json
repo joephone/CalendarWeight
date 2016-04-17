@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\MyApplication\\CalendarWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_calendar_last.xml",
+        "source": "E:\\MyApplication\\CalendarWeight\\app\\src\\main\\res\\drawable\\bt_calendar_last.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\CalendarWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_calendar_next.xml",
+        "source": "E:\\MyApplication\\CalendarWeight\\app\\src\\main\\res\\drawable\\bt_calendar_next.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\CalendarWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "E:\\MyApplication\\CalendarWeight\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\CalendarWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_bgd.xml",
+        "source": "E:\\MyApplication\\CalendarWeight\\app\\src\\main\\res\\drawable\\bt_bgd.xml"
+    }
+]
